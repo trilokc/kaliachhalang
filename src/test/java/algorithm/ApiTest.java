@@ -26,7 +26,7 @@ public class ApiTest {
 		
 	}
 	@Test
-	public void m4() {
+	public void m4VVVVVVVVVVv() {
 		
 	}
 	@Test
