@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class ApiTest {
+public class ApiTest { 
 	@Test
 	public void m1() { 
 		ApI1 api = new ApI1(); 
@@ -33,6 +33,11 @@ public class ApiTest {
 	public void m5QQQQQQQQQQQ() {
 		
 	}
+	@Test
+	public void m6QQQQQQQQQQQ() {    //later added in master after creating branch
+		
+	}
+
 /*	
 	
 	
@@ -47,6 +52,7 @@ public class ApiTest {
 	*/
 	@Test
 	public void m10() {
+
 		
 	}
 
