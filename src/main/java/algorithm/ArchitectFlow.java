@@ -4,12 +4,12 @@ public class ArchitectFlow {
 
 	public static void main(String[] args) {
 		
-		getArchitect();
+		/*getArchitect();
 		designBigHouse(); 
 		approveFromTownship(); 
 		appointContracters(); 
 		makeContractWithContracters(); 
-		askThemToStart(); 
+		askThemToStart(); */
 
 	}
 
